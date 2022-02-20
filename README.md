@@ -20,6 +20,6 @@ Esc-Open Menu
 
 All assets and code was done by me.  
 A spline plugin was used for the rail like movement.
-Music by my brother.  
+Music by my brother - Yaor Yaakov.  
 
 ![image](https://user-images.githubusercontent.com/62711261/96871296-bf1f5780-147a-11eb-9a3f-0f92ca5e5e34.png)
